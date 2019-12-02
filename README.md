@@ -1,7 +1,5 @@
 # Sorting-Algorithm-Visualization
 
-**Sorting Algorithm Visualization**
------------------------------------
 **Sign Up Preview**
 
 ![SignUp](https://user-images.githubusercontent.com/35567854/69986871-7318ab00-1568-11ea-99e8-46c2175ad1dc.gif)
@@ -33,5 +31,5 @@
 Here are some other sorting algorithms visualization and functionalities too.
 
 -----------------------------------
-**Sorting Visualization animated by JavaFx** </br>
-**Used Netbeans 8.2 and Scene Builder**
+**- Sorting Visualization animated by JavaFx** </br>
+**- Used Netbeans 8.2 and Scene Builder**
