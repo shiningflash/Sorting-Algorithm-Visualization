@@ -33,3 +33,10 @@ Here are some other sorting algorithms visualization and functionalities too.
 -----------------------------------
 **- Sorting Visualization animated by JavaFx** </br>
 **- Used Netbeans 8.2 and Scene Builder**
+
+---------------------------------------
+## License & copyright
+
+© Amirul Islam, Competitive Programmer
+
+Licensed under [MIT License](LICENSE)
